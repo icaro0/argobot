@@ -1,0 +1,6 @@
+username = 'mail'
+password = 'passwd'
+coinbase_api_secret = 'secret'
+coinbase_api_key = 'api key'
+coinbase_api_passphrase = 'passphrase'
+coinbase_api_nick = 'your api key'
